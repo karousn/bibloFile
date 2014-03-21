@@ -406,4 +406,20 @@
 		}
 
 }
+/* Enable image placeholders */@-moz-document url-prefix(http), url-prefix(file) { img:-moz-broken{-moz-force-broken-image-icon:1; width:24px;height:24px;
+}
+}
+	.center
+	{ text-align: center;
+	  border:none;
+	  cellpadding:auto;
+	  cellspacing:auto;
+	  height:auto;
+	  width:104px;
+	  }
+	.style4 {font-size: 11px}
+                    .style5 {font-size: 12px}
+                    .style8 {font-size: 12px; color: #000000; }
+                    .style10 {font-size: 11px; color: #000000; }
+                    .style11 {color: #000000}
     </style>
